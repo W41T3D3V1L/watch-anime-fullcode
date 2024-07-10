@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.anveshna.app',
-  appName: 'anveshna',
+  appId: 'com.gojo.app',
+  appName: 'gojo',
   webDir: 'build'
 };
 

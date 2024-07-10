@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">anveshna</string>
-    <string name="title_activity_main">anveshna</string>
-    <string name="package_name">com.anveshna.app</string>
-    <string name="custom_url_scheme">com.anveshna.app</string>
+    <string name="app_name">gojo</string>
+    <string name="title_activity_main">gojo</string>
+    <string name="package_name">com.gojo.app</string>
+    <string name="custom_url_scheme">com.gojo.app</string>
 </resources>

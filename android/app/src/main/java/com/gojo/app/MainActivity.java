@@ -1,4 +1,4 @@
-package com.anveshna.app;
+package com.gojo.app;
 
 import com.getcapacitor.BridgeActivity;
 
